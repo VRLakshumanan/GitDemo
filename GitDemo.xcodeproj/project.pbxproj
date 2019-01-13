@@ -14,6 +14,7 @@
 		B8464B4721EB72A50012EE42 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B8464B4521EB72A50012EE42 /* LaunchScreen.storyboard */; };
 		B8464B5221EB72A60012EE42 /* GitDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8464B5121EB72A60012EE42 /* GitDemoTests.swift */; };
 		B8464B5D21EB72A60012EE42 /* GitDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8464B5C21EB72A60012EE42 /* GitDemoUITests.swift */; };
+		B8464B6B21EB76890012EE42 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8464B6A21EB76890012EE42 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		B8464B5821EB72A60012EE42 /* GitDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B8464B5C21EB72A60012EE42 /* GitDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitDemoUITests.swift; sourceTree = "<group>"; };
 		B8464B5E21EB72A60012EE42 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B8464B6A21EB76890012EE42 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				B8464B3C21EB729E0012EE42 /* AppDelegate.swift */,
 				B8464B3E21EB729E0012EE42 /* ViewController.swift */,
+				B8464B6A21EB76890012EE42 /* SecondViewController.swift */,
 				B8464B4021EB729E0012EE42 /* Main.storyboard */,
 				B8464B4321EB72A50012EE42 /* Assets.xcassets */,
 				B8464B4521EB72A50012EE42 /* LaunchScreen.storyboard */,
@@ -256,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B8464B6B21EB76890012EE42 /* SecondViewController.swift in Sources */,
 				B8464B3F21EB729E0012EE42 /* ViewController.swift in Sources */,
 				B8464B3D21EB729E0012EE42 /* AppDelegate.swift in Sources */,
 			);
