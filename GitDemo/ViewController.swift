@@ -18,6 +18,7 @@ class ViewController: UIViewController {
         
         newGitversionString = "git demo version1.0"
         testGitDemoFunc(versionString: newGitversionString!)
+        print("working fine")
     }
     
     func testGitDemoFunc(versionString:String) -> Void {
