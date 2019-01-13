@@ -28,5 +28,10 @@ class ViewController: UIViewController {
         print("new branch created and test the code")
     }
 
+    
+    func newbranchcodefunction2() {
+        print("new branch created and test the code")
+    }
+
 }
 
