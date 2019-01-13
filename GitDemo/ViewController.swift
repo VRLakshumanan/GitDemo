@@ -31,5 +31,9 @@ class ViewController: UIViewController {
     func newbranchcodefunction23() {
         print("new branch23 created and test the code")
     }
+    
+    func mergeIntoMaster() {
+        print("merge into master")
+    }
 }
 
