@@ -23,7 +23,10 @@ class ViewController: UIViewController {
     func testGitDemoFunc(versionString:String) -> Void {
         print("Update version string - \(versionString)")
     }
-
+    
+    func newbranchcodefunction() {
+        print("new branch created and test the code")
+    }
 
 }
 
